@@ -1,0 +1,15 @@
+*.compiled
+*.ppu
+*.o
+*.s
+
+*.exe
+*.dll
+
+*.lps
+*.log
+*.txt
+
+/ref
+/tmp
+/lib
